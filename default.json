@@ -15,7 +15,7 @@
   ],
   "onboarding": false,
   "requireConfig": "optional",
-  "timezone": "Europe/Amsterdam",
+  "timezone": "America/Chicago",
   "dependencyDashboardTitle": "Renovate Dashboard",
   "suppressNotifications": ["prIgnoreNotification"],
   "commitBodyTable": true,
